@@ -101,7 +101,7 @@ Each folder has its own README with the equations and output-file formats.
 ## Quick start
 
 ```bash
-git clone https://github.com/Carmeisel101/pt6ish.git
+git clone https://github.com/meiridian/pt6ish.git
 cd pt6ish
 make setup     # creates .venv and installs requirements.txt
 make           # runs tasks 2-6 and redraws the T-s diagram
